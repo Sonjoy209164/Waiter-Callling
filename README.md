@@ -9,6 +9,14 @@ Click below to open and run this project directly in Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SGvT04L4hS4yv0K68z8-s1bM-MDEYZdo?usp=sharing)
 
+## 🧠 Custom Hand Detection Model
+
+This project uses a **YOLOv8n custom-trained model** to detect raised hands with high accuracy.
+
+📦 Download or reference the model from here:  
+[🔗 yolov8n-hand-custom.pt](https://github.com/Sonjoy209164/Waiter-Callling/blob/035389ef09d61f2650f9c1a5c47f096b14718976/yolov8n-hand-custom.pt?raw=true)
+
+
 ## 📹 Demo
 
 [![Watch the demo](https://img.youtube.com/vi/NxLjAFeIc8g/0.jpg)](https://youtu.be/NxLjAFeIc8g?si=micVAJt9TlT1O0gA)
