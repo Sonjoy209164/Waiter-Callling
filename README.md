@@ -15,7 +15,7 @@ This project uses a **YOLOv8n custom-trained model** to detect raised hands with
 
 📦 Download or reference the model from here:  
 
-[Download YOLOv8n Hand Detection Model (.pt)](https://github.com/Sonjoy209164/Waiter-Callling/blob/035389ef09d61f2650f9c1a5c47f096b14718976/yolov8n-hand-custom.pt?raw=true)
+[Download YOLOv8n Hand Detection Model (.pt)](https://drive.google.com/file/d/1AdbME4D_xYHjwAD3AMtlAolS6jHymDHx/view?usp=drive_link)
 
 
 ## 📹 Demo
