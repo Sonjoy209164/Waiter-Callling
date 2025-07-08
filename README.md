@@ -11,6 +11,9 @@ A computer vision project that detects when a person raises their hand in an off
 > Click the image to watch the video demonstration on YouTube.
 
 ---
+## 🧭 Project Workflow
+
+![Workflow Diagram](https://github.com/Sonjoy209164/Waiter-Callling/blob/d62be0fc12a3277bf50764b2359e3b37c851ad93/waiter_calling_workflow.png?raw=true)
 
 ## 🧰 Technologies Used
 
