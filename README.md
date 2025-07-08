@@ -6,7 +6,7 @@ A computer vision project that detects when a person raises their hand in an off
 
 ## 📹 Demo
 
-[![Watch the demo](https://img.youtube.com/vi/NxLjAFeIc8g/0.jpg)](https://youtu.be/NxLjAFeIc8g)
+[![Watch the demo](https://img.youtube.com/vi/NxLjAFeIc8g/0.jpg)](https://youtu.be/NxLjAFeIc8g?si=micVAJt9TlT1O0gA)
 
 > Click the image to watch the video demonstration on YouTube.
 
@@ -51,3 +51,4 @@ A computer vision project that detects when a person raises their hand in an off
    ```bash
    git clone https://github.com/Sonjoy209164/Waiter-Callling.git
    cd Waiter-Callling
+
