@@ -3,6 +3,11 @@
 A computer vision project that detects when a person raises their hand in an office to request coffee. It uses OpenCV and color segmentation to identify desks from images or video feeds and leverages deep learning models to detect hand gestures, enabling an automated waiter-calling or seating system.
 
 ---
+## ▶️ Run in Google Colab
+
+Click below to open and run this project directly in Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SGvT04L4hS4yv0K68z8-s1bM-MDEYZdo?usp=sharing)
 
 ## 📹 Demo
 
